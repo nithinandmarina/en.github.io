@@ -1,7 +1,7 @@
 ---
 title: Recipes
 subtitle: 
-image: assets/img/spain/paella_es.png
+image: assets/img/spain/paella_en.png
 alt: Keep Exploring
 
 caption:

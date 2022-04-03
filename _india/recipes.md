@@ -1,7 +1,7 @@
 ---
 title: Recipes
 subtitle: 
-image: assets/img/india/pollo_es.png
+image: assets/img/india/pollo_en.png
 alt: 
 
 caption:

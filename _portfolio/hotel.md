@@ -1,7 +1,7 @@
 ---
 title: Hotel
 subtitle: 
-image: assets/img/travel/coming_soon_es.png
+image: assets/img/travel/coming_soon_en.png
 alt: Keep Exploring
 
 caption:
