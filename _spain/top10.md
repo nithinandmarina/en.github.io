@@ -1,23 +1,23 @@
 ---
-title: 10 curiosidades sobre España
+title: Top 10 hints about Spain
 subtitle:  
 alt: 
 
 caption:
   title: TOP10
-  subtitle: 10 curiosidades sobre España
+  subtitle: Things to know about Spain
   thumbnail: assets/img/spain/top10.png
 ---
 <div style="text-align: left">
-1. Se calcula que hay unos 440 millones personas en todo el mundo cuya lengua materna es el español. Pero aunque es la lengua oficial de España, el catalán, el euskera y el gallego poseen estatus oficial en sus respectivas regiones.<br><br>
-2. El flamenco no es realmente baile tradicional de España, sino la de Andalucía. Hay muchos lugares para ver el flamenco, como Granada, Sevilla y Córdoba.<br><br>
-3. Hay tantos festivales en España que probablemente podría visitar uno cada día del año: La Semana Santa, las Fallas, la Tomatina, el Carnaval...<br><br>
-4. Los musulmanes gobernaron España desde el año 711 hasta 1492 aproximadamente, por lo que todavía se puede encontrar su influencia en la comida, en la arquitectura(Alhambra de Granada y el Real Alcázar de Sevilla) o en la lengua española, con palabras como almohada, azúcar o almendra las cuales proceden directamente del árabe.<br><br>
-5. La primera novela moderna es española: "El Quijote" e considera el libro traducido a más idiomas después de la Biblia, y el que ostenta el título de mejor libro de la historia. Fue escrito por un autor español, Miguel de Cervantes en 1605.<br><br>
-6. En España, la cultura de las tapas significa que cuando se pide una bebida en la mayoría de los lugares, ésta llega con un pequeño aperitivo. No hay que pagar por ello, sino que se trata de comida gratuita que se toma junto a la bebida.<br><br>
-7. Alrededor del 44% del aceite de oliva del mundo se produce en España.<br><br>
-8. Los artistas españoles más famosos son El Greco, Velázquez, Goya, Pablo Picasso y Salvador Dalí.<br><br>
-9. España es el tercer país del mundo que alberga más lugares declarados Patrimonio de la Humanidad por la UNESCO, con un total de 48.<br><br>
-10. Se come muy tarde: el almuerzo es alrededor de las 14:00 horas y la cena se toma en torno a las 21:00 o 22:00 horas aproximadamente.
+1. There are an estimated 440 million people worldwide whose mother tongue is Spanish. But although it is the official language of Spain, Catalan, Basque and Galician have official status in their respective regions.<br><br>
+2. Flamenco is not really Spain's traditional dance, but that of Andalusia. There are many places to see flamenco, such as Granada, Seville and Cordoba.<br><br>
+3. There are so many festivals in Spain that you could probably visit one every day of the year: La Semana Santa, Las Fallas, La Tomatina, Carnival...<br><br>
+4. Muslims ruled Spain from 711 to 1492 approximately, so you can still find their influence in the food, in the architecture (Alhambra in Granada and the Real Alcazar in Seville) or in the Spanish language, with words like pillow, sugar or almond which come directly from Arabic.<br><br>
+5. The first modern novel is Spanish: "Don Quixote" is considered the book translated into the most languages after the Bible, and the one that holds the title of best book in history. It was written by a Spanish author, Miguel de Cervantes in 1605.<br><br>
+6. In Spain, tapas culture means that when you order a drink in most places, it comes with a small appetizer. You don't have to pay for it, but rather it is free food that you take along with your drink.<br><br>
+7. Around 44% of the world's olive oil is produced in Spain.<br><br>
+8. The most famous Spanish artists are El Greco, Velázquez, Goya, Pablo Picasso and Salvador Dalí.<br><br>
+9. Spain is the third country in the world with the most UNESCO World Heritage Sites, with a total of 48.<br><br>
+10. Lunch is around 2:00 pm and dinner is eaten around 9:00 pm or 10:00 pm approximately.
 </div>
 

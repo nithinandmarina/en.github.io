@@ -1,12 +1,12 @@
 ---
-title: Recetas
+title: Recipes
 subtitle: 
 image: assets/img/india/pollo_es.png
 alt: 
 
 caption:
-  title: Habituándonos
-  subtitle: Consejos y curiosidades
+  title: Getting ready
+  subtitle: Tips and hints
   thumbnail: assets/img/india/ready.jpg
 ---
 

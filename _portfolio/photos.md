@@ -15,7 +15,7 @@ Tag us in your favorite pictures. In any case we will create a folder after the 
               
     <li class="list-inline-item">
       
-      <a href="https://www.instagram.com/nithinandmarina/">
+      <a href="https://www.instagram.com/nithinandmarina/" target="_blank" rel="noopener noreferrer">
         <i class="fab fa-instagram"></i>
       </a>
       

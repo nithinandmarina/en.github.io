@@ -9,6 +9,7 @@ caption:
   subtitle: Destination -> Bangalore
   thumbnail: assets/img/travel/travel_tickets.gif
 ---
-Bangalore's airport is called Kempegowda International Airport Bengaluru [https://www.bengaluruairport.com](https://www.bengaluruairport.com/).
+Bangalore's airport is called Kempegowda International Airport Bengaluru.
 
 
+<a href="https://www.bengaluruairport.com" target="_blank" rel="noopener noreferrer">https://www.bengaluruairport.com</a>

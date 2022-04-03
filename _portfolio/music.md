@@ -15,7 +15,7 @@ Follow the music playlist we have created on Spotify and don't forget to add you
           
     <li class="list-inline-item">
       
-      <a href="https://open.spotify.com/playlist/1tum2xY87SGyQWEFxjeJKJ?si=CW8iDIAPSwW-vTaTmv6iZA&amp;utm_source=native-share-menu">
+      <a href="https://open.spotify.com/playlist/1tum2xY87SGyQWEFxjeJKJ?si=CW8iDIAPSwW-vTaTmv6iZA&amp;utm_source=native-share-menu" target="_blank" rel="noopener noreferrer">
         <i class="fab fa-spotify"></i>
       </a>
       

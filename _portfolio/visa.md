@@ -10,4 +10,6 @@ caption:
   thumbnail: assets/img/travel/visa.jpg
 ---
 
-I will add the steps to follow in detail of my application: [https://www.eoimadrid.gov.in/visa-information.php](https://www.eoimadrid.gov.in/visa-information.php)
+We will add the steps to follow in detail of my application 
+
+<a href="https://www.eoimadrid.gov.in/visa-information.php" target="_blank">https://www.eoimadrid.gov.in/visa-information.php</a>

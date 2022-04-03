@@ -1,12 +1,12 @@
 ---
-title: Recetas
+title: Recipes
 subtitle: 
 image: assets/img/spain/paella_es.png
 alt: Keep Exploring
 
 caption:
-  title: Habituándonos
-  subtitle: Consejos y curiosidades
+  title: Getting ready
+  subtitle: Tips and hints
   thumbnail: assets/img/spain/ready.jpg
 ---
 
