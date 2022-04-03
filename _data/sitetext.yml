@@ -1,0 +1,329 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    #title: Marina &#9829; Nithin
+    #text: "11-12 December 2022"
+    button: "&#8595"
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
+  portfolio:
+    title: "Travel"
+    text: "Detailed travel information"
+    section: portfolio
+    closebutton: "Close Project"
+  
+  india:
+    title: "india"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: india
+    closebutton: "Close Project"
+  
+  spain:
+    title: "Descubre Spain"
+    text: "Información detallada sobre el viaje"
+    section: spain
+    closebutton: "Cerrar Proyecto"
+
+  timeline:
+    title: "test"
+    text: ""
+    section: equipo
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Mandya (India)"
+        year: "22.12.1992"
+        desc: "Nithin is born, shy and restless, but above all curious."
+        image: assets/img/timeline/nithin_kid.jpg
+        alt:
+      - title: "Granada (Spain)"
+        year: "27.07.1995"
+        desc: "Marina is born, sometimes too creative making graffiti on the walls of her house."
+        image: assets/img/timeline/marina_kid.jpg
+        alt:
+      - title: "Bangalore (India)"
+        year: "1992-2016"
+        desc: "Nithin's family never knew that their son would end up being a technology enthusiast."
+        image: assets/img/timeline/nithin_family2.png
+        alt:
+      - title: "Granada (Spain) and Duisburg (Germany)"
+        year: "1995-2017"
+        desc: "And Marina's family would never have imagined that their daughter would like to work with cars."
+        image: assets/img/timeline/marina_family2.jpg
+        alt:
+      - title: "Allmandring I (Stuttgart, Germany)"
+        year: "10.2017-2018"
+        desc: "It all started with the WiFi key, and a door-to-door neighbourly friendship and endless chats."
+        image: assets/img/timeline/hackathon.jpg
+        alt: image alt text
+      - title: "Allmandring I (Stuttgart, Germany)"
+        year: "11.2018-2019"
+        desc: "This was followed by dinners, master's study days and new beginnings."
+        image: assets/img/timeline/china.jpg
+        alt: image alt text
+      - title: "Ludwigsburg (Germany)"
+        year: "2019-actualidad"
+        desc: "To continue with cycling routes, ping pong, badminton or dancing evenings, and that at the end of this year opens a new chapter."
+        image: assets/img/timeline/ludwigsburg.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "Be part <br> of our <br> story!"
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "About us"
+    subtext: Our history
+    section: equipo
+    people:
+      - name: "Marina Terron Camero"
+        role: "The Bride"
+        image: assets/img/team/marina_author.jpg
+        social:
+          - url: https://www.instagram.com/marinaterron4/
+            icon: "fab fa-instagram"
+      - name: "Nithin Kumara N T"
+        role: "The Groom"
+        image: assets/img/team/nithin_author.jpg
+        social:
+          - url: https://www.instagram.com/nithin__nt/
+            icon: "fab fa-instagram"
+
+  contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  header:
+    title: 
+    text: 
+    button: Ver más
+    buttonlink: "#servicios"
+
+  # services:
+  #   title: "Novedades"
+  #   text: "Aquí encontrarás la información relevante más reciente."
+  #   section: servicios
+  #   list:
+  #     - title: "Grupo de WhatsApp"
+  #       desc: "Las actualizaciones de la página web se anunciarán en el grupo de WhatsApp"
+  #       icon: fab fa-whatsapp
+  #     - title: "Billetes"
+  #       desc: "No te retrases en comprarlos ya que los precios van subiendo"
+  #       icon: fas fa-plane #find more at https://fontawesome.com/icons
+  #     - title: "Seguro de viaje/médico"
+  #       desc: "Lo puedes obtener a la vez que sacas los billetes o por separado"
+  #       icon: fas fa-shield-alt
+  #     - title: "Visa"
+  #       desc: "Es necesario un visado para entrar a la India. ¡Tutorial en proceso!"
+  #       icon: fas fa-file-contract
+  #     - title: "Pasaporte"
+  #       desc: "Revisa la caducidad de tu pasaporte y renuévalo también si caduca justo después del viaje"
+  #       icon: fas fa-passport
+  #     - title: "Vacunas"
+  #       desc: "Pregunta a tú médico de cabecera. Actualizaremos las recomendadas"
+  #       icon: fas fa-syringe
+
+  portfolio:
+    title: "Viaje"
+    text: "Información detallada sobre el viaje"
+    section: portfolio
+    closebutton: "Cerrar"
+
+  india:
+    title: "Descubre India"
+    text: "Información detallada sobre el viaje"
+    section: india
+    closebutton: "Cerrar Proyecto"
+
+  spain:
+    title: "Descubre España"
+    text: "Información detallada sobre el viaje"
+    section: spain
+    closebutton: "Cerrar Proyecto"
+
+  timeline:
+    title: "test"
+    text: ""
+    section: cronologia
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Mandya (India)"
+        year: "22.12.1992"
+        desc: "Nace Nithin, tímido e inquieto, pero sobre todo curioso"
+        image: assets/img/timeline/nithin_kid.jpg
+        alt:
+      - title: "Granada (España)"
+        year: "27.07.1995"
+        desc: "Nace Marina, a veces demasiado creativa haciendo grafitis en las paredes de su casa "
+        image: assets/img/timeline/marina_kid.jpg
+        alt:
+      - title: "Bangalore (India)"
+        year: "1992-2016"
+        desc: "La familia de Nithin nunca supo que su hijo acabaría siendo un apasionado de las tecnologías"
+        image: assets/img/timeline/nithin_family2.png
+        alt:
+      - title: "Granada (España) y Duisburg (Alemania)"
+        year: "1995-2017"
+        desc: "Y la famlia de Marina nunca se imaginarían que a su hija le gustaría trabajar con los coches"
+        image: assets/img/timeline/marina_family2.jpg
+        alt:
+      - title: "Allmandring I (Stuttgart, Alemania)"
+        year: "10.2017-2018"
+        desc: "Todo comenzó con la clave del WiFi, y una amistad de vecinos puerta con puerta e infinitas charlas"
+        image: assets/img/timeline/hackathon.jpg
+        alt: image alt text
+      - title: "Allmandring I (Stuttgart, Alemania)"
+        year: "11.2018-2019"
+        desc: "La cual continuó con cenas, días de estudio del máster y nuevos comienzos"
+        image: assets/img/timeline/china.jpg
+        alt: image alt text
+      - title: "Ludwigsburg (Alemania)"
+        year: "2019-actualidad"
+        desc: "Para continuar con rutas en bicicleta, tardes de ping pong, bádminton o baile, y que a finales de este año abre un nuevo capítulo"
+        image: assets/img/timeline/ludwigsburg.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "¡Se parte <br> de Nuestra <br> Historia!"
+
+  clients:
+    section: clientes
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
+    title: "Quiénes somos"
+    subtext: Nuestra historia
+    section: equipo
+    people:
+      - name: "Marina Terron Camero"
+        role: "La Novia"
+        image: assets/img/team/marina_author.jpg
+        social:
+          - url: https://www.instagram.com/marinaterron4/
+            icon: "fab fa-instagram"
+      - name: "Nithin Kumara N T"
+        role: "El Novio"
+        image: assets/img/team/nithin_author.jpg
+        social:
+          - url: https://www.instagram.com/nithin__nt/
+            icon: "fab fa-instagram"
+
+  contact:
+    title: "Contacto"
+    text: "Lorem ipsum or call 123456789"
+    section: contacto
+    name: "Nombre*"
+    name-validation: "Por favor ingrese su nombre."
+    email: "Correo Electrónico*"
+    email-validation: "Por favor ingrese su correo electrónico."
+    phone: "Número Telefónico*"
+    phone-validation: "Por favor ingrese su número telefónico."
+    message: "Mensaje*"
+    message-validation: "Por favor escriba un mensaje."
+    subject: "Envío del formulario de contacto"
+    submit: "Enviar Mensaje"
+
+  footer:
+    legal: "Política de Privacidad"
+    social:
+      - url: https://open.spotify.com/playlist/1tum2xY87SGyQWEFxjeJKJ?si=CW8iDIAPSwW-vTaTmv6iZA&utm_source=native-share-menu
+        icon: "fab fa-spotify"
+      - url: https://www.instagram.com/nithinandmarina/
+        icon: "fab fa-instagram"
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES

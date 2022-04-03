@@ -1,0 +1,60 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  nav:
+    # - title: "services"
+    #   section: services
+    - title: "portfolio"
+      section: portfolio
+    - title: "Discover india"
+      section: india
+    - title: "Discover Spain"
+      section: spain
+    - title: "About us"
+      section: equipo
+    # - title: "team"
+    #   section: team
+    # - title: "contact"
+    #   section: contact
+    - #title: "Theme Source"
+      #url: https://github.com/raviriley/agency-jekyll-theme/
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  nav:
+    # - title: "Novedades"
+    #   section: servicios
+    - title: "Viaje"
+      section: portfolio
+    - title: "Descubre India"
+      section: india
+    - title: "Descubre España"
+      section: spain
+    - title: "Quiénes somos"
+      section: equipo
+    # - title: "Contacto"
+    #   section: contacto
+    # - title: "Fuente de la plantilla"
+    #   url: https://github.com/raviriley/agency-jekyll-theme/
+es-ES:
+  <<: *DEFAULT_ES
+es-CO:
+  <<: *DEFAULT_ES

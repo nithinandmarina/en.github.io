@@ -1,0 +1,113 @@
+// Global styling for this template
+body {
+  overflow-x: hidden;
+  @include body-font;
+}
+
+p {
+  line-height: 1.75;
+}
+
+a {
+  color: $primary;
+  &:hover {
+    color: darken($primary, 10%);
+  }
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  @include heading-font;
+}
+
+.page-section {
+  padding: 100px 0;
+  h2.section-heading {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+  h3.section-subheading {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 75px;
+    text-transform: none;
+    @include serif-font;
+  }
+}
+@media (min-width: 10px) {
+  section {
+    padding: 150px 0;
+  }
+
+  .custom-india-bg {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: 100%;
+  
+    background-image: linear-gradient(rgba(138, 106, 106, 0.774), rgba(255,255,255,0.5)), url('../../assets/img/bangalore_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+
+  .custom-spain-bg {
+    width: 100%;
+    padding: 0 7%;
+    display: table;
+    margin: 0;
+    max-width: 100%;
+  
+    background-image: linear-gradient(rgba(238, 170, 170, 0.582), rgba(255,255,255,0.5)), url('../../assets/img/granada_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+}
+
+// Highlight color customization
+::-moz-selection {
+  background: $primary;
+  text-shadow: none;
+}
+
+::selection {
+  background: $primary;
+  text-shadow: none;
+}
+
+img::selection {
+  background: transparent;
+}
+
+img::-moz-selection {
+  background: transparent;
+}
+
+.imgrotate {
+  transition: transform .8s ease-in-out;
+}
+
+.imgrotate:hover {
+  transform: rotate(360deg);
+}
+
+.white-text{
+  color: #fff;
+}
+
+.bg-gray {
+  background-color: rgb(238, 238, 238);
+}

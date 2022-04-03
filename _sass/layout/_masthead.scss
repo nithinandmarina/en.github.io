@@ -1,0 +1,99 @@
+// Styling for the masthead
+header.masthead {
+  text-align: center;
+  color: white;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  .intro-text {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    .intro-lead-in {
+      font-size: 22px;
+      font-style: italic;
+      line-height: 22px;
+      margin-bottom: 25px;
+      @include serif-font;
+    }
+    .intro-heading {
+      font-size: 50px;
+      font-weight: 700;
+      line-height: 50px;
+      margin-bottom: 25px;
+      @include heading-font;
+    }
+  }
+}
+@media (min-width: 1025px) {
+  header.masthead {
+    background-image: url("#{$laptop-image}");
+    .intro-text {
+      padding-top: 50%;
+      padding-bottom: 35%;
+      .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
+        @include serif-font;
+      }
+      .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
+      }
+    }
+  }
+}
+
+// Marina's laptop : 1366 x 768
+// Macbook pro : 3456 x 2234
+@media (min-width: 426px ) and (max-width:1450px){
+  header.masthead {
+    background-image: url("#{$tablet-image}");
+    .intro-text {
+      padding-top: 70%;
+      padding-bottom: 10%;
+      .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
+        @include serif-font;
+      }
+      .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
+      }
+    }
+  }
+}
+@media (max-width: 425px) {
+  header.masthead {
+    background-image: url("#{$mobile-image}");
+    .intro-text {
+      padding-top: 99%;
+      padding-bottom: 99%;
+      .intro-lead-in {
+        font-size: 40px;
+        font-style: italic;
+        line-height: 40px;
+        margin-bottom: 25px;
+        @include serif-font;
+      }
+      .intro-heading {
+        font-size: 75px;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
+      }
+    }
+  }
+}
