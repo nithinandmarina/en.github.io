@@ -1,7 +1,7 @@
 ---
 title: Passport
 subtitle: 
-image: assets/img/travel/passport_steps.png
+image: assets/img/travel/passport_inside.jpg
 alt: 
 
 caption:
