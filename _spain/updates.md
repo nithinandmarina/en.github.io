@@ -1,11 +1,11 @@
 ---
-title: Discover Spain
+title: About Spain
 subtitle: 
 image: assets/img/spain/web.jpg
 alt: 
 
 caption:
-  title: Discover Spain
+  title: About Spain
   subtitle: Official website
   thumbnail: assets/img/spain/alhambra.jpg
 ---

@@ -57,12 +57,12 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Mandya (India)"
-        year: "22.12.1992"
+        year: "22/12/1992"
         desc: "Nithin is born, shy and restless, but above all curious."
         image: assets/img/timeline/nithin_kid.jpg
         alt:
       - title: "Granada (Spain)"
-        year: "27.07.1995"
+        year: "27/07/1995"
         desc: "Marina is born, sometimes too creative making graffiti on the walls of her house."
         image: assets/img/timeline/marina_kid.jpg
         alt:
@@ -77,17 +77,17 @@ en: &DEFAULT_EN
         image: assets/img/timeline/marina_family2.jpg
         alt:
       - title: "Allmandring I (Stuttgart, Germany)"
-        year: "10.2017-2018"
+        year: "10/2017-2018"
         desc: "It all started with the WiFi key, and a door-to-door neighbourly friendship and endless chats."
         image: assets/img/timeline/hackathon.jpg
         alt: image alt text
       - title: "Allmandring I (Stuttgart, Germany)"
-        year: "11.2018-2019"
+        year: "11/2018-2019"
         desc: "This was followed by dinners, master's study days and new beginnings."
         image: assets/img/timeline/china.jpg
         alt: image alt text
       - title: "Ludwigsburg (Germany)"
-        year: "2019-actualidad"
+        year: "2019-now"
         desc: "To continue with cycling routes, ping pong, badminton or dancing evenings, and that at the end of this year opens a new chapter."
         image: assets/img/timeline/ludwigsburg.jpg
         alt:
@@ -242,12 +242,12 @@ es: &DEFAULT_ES
         image: assets/img/timeline/marina_family2.jpg
         alt:
       - title: "Allmandring I (Stuttgart, Alemania)"
-        year: "10.2017-2018"
+        year: "10/2017-2018"
         desc: "Todo comenzó con la clave del WiFi, y una amistad de vecinos puerta con puerta e infinitas charlas"
         image: assets/img/timeline/hackathon.jpg
         alt: image alt text
       - title: "Allmandring I (Stuttgart, Alemania)"
-        year: "11.2018-2019"
+        year: "11/2018-2019"
         desc: "La cual continuó con cenas, días de estudio del máster y nuevos comienzos"
         image: assets/img/timeline/china.jpg
         alt: image alt text

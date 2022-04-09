@@ -9,6 +9,6 @@ caption:
   subtitle: Check expiration date
   thumbnail: assets/img/travel/pasaporte.jpg
 ---
-Renew your passport if it is expired or even if it will expire soon (within 6 months after your travel date) at your nearest police station.
+Renew your passport if it is expired or even if it will expire soon (within 6 months after your travel date) at your nearest police station. This section only applies to Europeans.
 
 
