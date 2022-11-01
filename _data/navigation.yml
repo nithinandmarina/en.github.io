@@ -13,13 +13,13 @@ en: &DEFAULT_EN
   nav:
     # - title: "services"
     #   section: services
-    - title: "Travel"
-      section: portfolio
-    - title: "Discover india"
-      section: india
-    - title: "Discover Spain"
-      section: spain
-    - title: "About us"
+    # - title: "Travel"
+    #   section: portfolio
+    # - title: "Discover india"
+    #   section: india
+    # - title: "Discover Spain"
+    #   section: spain
+    - title: "Our Timeline"
       section: equipo
     # - title: "team"
     #   section: team

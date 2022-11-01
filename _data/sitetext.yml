@@ -16,20 +16,20 @@ en: &DEFAULT_EN
     button: "&#8595"
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+  # services:
+  #   title: "Services"
+  #   text: "Lorem ipsum"
+  #   section: services
+  #   list:
+  #     - title: "E-Commerce"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  #       icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+  #     - title: "Responsive Design"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+  #       icon: fas fa-laptop
+  #     - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+  #       desc: "Your description here, full **Markdown** support"
+  #       icon: fab fa-markdown
 
   portfolio:
     title: "Travel"
@@ -37,17 +37,17 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
   
-  india:
-    title: "Discover India"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: india
-    closebutton: "Close Project"
+  # india:
+  #   title: "Discover India"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   section: india
+  #   closebutton: "Close Project"
   
-  spain:
-    title: "Discover Spain"
-    text: "Información detallada sobre el viaje"
-    section: spain
-    closebutton: "Close Project"
+  # spain:
+  #   title: "Discover Spain"
+  #   text: "Información detallada sobre el viaje"
+  #   section: spain
+  #   closebutton: "Close Project"
 
   timeline:
     title: "test"
@@ -89,9 +89,28 @@ en: &DEFAULT_EN
       - title: "Ludwigsburg (Germany)"
         year: "2019-now"
         desc: "To continue with cycling routes, ping pong, badminton or dancing evenings, and that at the end of this year opens a new chapter."
-        image: assets/img/timeline/ludwigsburg.jpg
+        image: assets/img/timeline/ludwigsburg_pic.jpg
         alt:
         # you can enforce the alignment
+      - title: "Copenhagen (Denmark)"
+        year: "15/07/2022"
+        desc: "Our journey was official"
+        image: assets/img/timeline/copenhagen.png
+        alt:
+      - title: "Isckon Temple (Bangalore)"
+        year: "11/12/2022"
+        desc: |
+              Cultural Wedding                                              
+              Muhurtham : 11:10 AM to 11:55 AM                                                    
+              [Link to Google Maps](https://goo.gl/maps/6ZMhT8L45sNjh3Ky9)
+        image: assets/img/timeline/iskcon.jpeg
+        icon: fas fa-shopping-cart
+        alt:
+      - title: "Sri Lakshmivenkateshwara <br> Kalyana Mantapa (Bangalore)"
+        year: "11/12/2022"
+        desc: "Reception <br> From: 06:30 PM onwards <br> [Link to Google Maps](https://goo.gl/maps/BnK8yp1GWmrEW6EE7)"
+        image: assets/img/timeline/reception.jpg
+        alt:
         align: right
     end: "Be part <br> of our <br> story!"
 
@@ -114,7 +133,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "About us"
+    title: "Our Timeline"
     subtext: Our history
     section: equipo
     people:
