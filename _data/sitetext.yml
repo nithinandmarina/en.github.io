@@ -94,7 +94,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
       - title: "Copenhagen (Denmark)"
         year: "15/07/2022"
-        desc: "Our journey was official"
+        desc: "Marriage registration."
         image: assets/img/timeline/copenhagen.png
         alt:
       - title: "Isckon Temple (Bangalore)"
