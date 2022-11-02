@@ -58,43 +58,43 @@ en: &DEFAULT_EN
     events:
       - title: "Mandya (India)"
         year: "22/12/1992"
-        desc: "Nithin is born, shy and restless, but above all curious."
+        desc: "Nithin is born, shy and restless, but above all curious"
         image: assets/img/timeline/nithin_kid.jpg
         alt:
       - title: "Granada (Spain)"
         year: "27/07/1995"
-        desc: "Marina is born, sometimes too creative making graffiti on the walls of her house."
+        desc: "Marina is born, sometimes too creative making graffiti on the walls of her house"
         image: assets/img/timeline/marina_kid.jpg
         alt:
       - title: "Bangalore (India)"
         year: "1992-2016"
-        desc: "Nithin's family never knew that their son would end up being a technology enthusiast."
+        desc: "Nithin's family never knew that their son would end up being a technology enthusiast"
         image: assets/img/timeline/nithin_family2.png
         alt:
       - title: "Granada (Spain) and Duisburg (Germany)"
         year: "1995-2017"
-        desc: "And Marina's family would never have imagined that their daughter would like to work with cars."
+        desc: "And Marina's family would never have imagined that their daughter would like to work with cars"
         image: assets/img/timeline/marina_family2.jpg
         alt:
       - title: "Allmandring I (Stuttgart, Germany)"
         year: "10/2017-2018"
-        desc: "It all started with the WiFi key, and a door-to-door neighbourly friendship and endless chats."
+        desc: "It all started with the WiFi key, and a door-to-door neighbourly friendship and endless chats"
         image: assets/img/timeline/hackathon.jpg
         alt: image alt text
       - title: "Allmandring I (Stuttgart, Germany)"
         year: "11/2018-2019"
-        desc: "This was followed by dinners, master's study days and new beginnings."
+        desc: "This was followed by dinners, master's study days and new beginnings"
         image: assets/img/timeline/china.jpg
         alt: image alt text
       - title: "Ludwigsburg (Germany)"
         year: "2019-now"
-        desc: "To continue with cycling routes, ping pong, badminton or dancing evenings, and that at the end of this year opens a new chapter."
+        desc: "To continue with cycling routes, ping pong, badminton or dancing evenings, and that at the end of this year opens a new chapter"
         image: assets/img/timeline/ludwigsburg_pic.jpg
         alt:
         # you can enforce the alignment
       - title: "Copenhagen (Denmark)"
         year: "15/07/2022"
-        desc: "Marriage registration."
+        desc: "Marriage registration"
         image: assets/img/timeline/copenhagen.png
         alt:
       - title: "Isckon Temple (Bangalore)"
